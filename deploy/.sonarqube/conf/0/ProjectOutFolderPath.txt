@@ -1,0 +1,1 @@
+C:\Users\burak\Source\Repos\deploy\deploy\.sonarqube\out\0
